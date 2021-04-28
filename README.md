@@ -2,7 +2,7 @@
 - 👀 I’m interested in MACHINE LEARNING
 - 🌱 I’m currently learning CNN
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me sashktsingh17@gmail.com
+- 📫 How to reach me sashaktsingh17@gmail.com
 
 <!---
 sashaktsingh/sashaktsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
